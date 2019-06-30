@@ -1,0 +1,8 @@
+2019-06-30 18:58:35.933 WAT [40138] LOG:  listening on IPv6 address "::1", port 5432
+2019-06-30 18:58:35.933 WAT [40138] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-06-30 18:58:35.934 WAT [40138] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2019-06-30 18:58:35.966 WAT [40139] LOG:  database system was shut down at 2019-06-30 18:57:51 WAT
+2019-06-30 18:58:35.979 WAT [40138] LOG:  database system is ready to accept connections
+2019-06-30 18:58:38.833 WAT [40155] FATAL:  database "emmanueldaniel" does not exist
+2019-06-30 19:00:05.322 WAT [40198] FATAL:  database "emmanueldaniel" does not exist
+2019-06-30 19:00:08.528 WAT [40209] FATAL:  database "emmanueldaniel" does not exist
