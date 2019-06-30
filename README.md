@@ -3,36 +3,43 @@
 ## Description
  A simple user management app.  
 
+## DEPENDECIES/TECHNOLOGIES
+- Framework: **Nestjs (typescript version)**
+- Database ORM: **TypeORM**
+- Database: **PostgreSQL**
+- Test Library:
+- CI Tool: **Cirlce CI**
+
 ## Installation
 
 ```bash
-$ npm install
+$ yarn install
 ```
 
 ## Running the app
 
 ```bash
 # development
-$ npm run start
+$ yarn run start
 
 # watch mode
-$ npm run start:dev
+$ yarn run start:dev
 
 # production mode
-$ npm run start:prod
+$ yarn run start:prod
 ```
 
 ## Test
 
 ```bash
 # unit tests
-$ npm run test
+$ yarn run test
 
 # e2e tests
-$ npm run test:e2e
+$ yarn run test:e2e
 
 # test coverage
-$ npm run test:cov
+$ yarn run test:cov
 ```
 
 ## Support
@@ -41,8 +48,8 @@ User Manager (UM) is an GNU-licensed open source project. We accept contribution
 
 ## Stay in touch
 
-- Author - [EmmsDAn](https://github.com/emmsdan)
-- Twitter - [@nestframework](https://twitter.com/emmsdan)
+- Author - [EmmsDan](https://github.com/emmsdan)
+- Twitter - [@emmsdan](https://twitter.com/emmsdan)
 
 ## License
 
