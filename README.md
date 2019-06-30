@@ -6,7 +6,7 @@
 ## DEPENDECIES/TECHNOLOGIES
 - Framework: **Nestjs (typescript version)**
 - Database ORM: **TypeORM**
-- Database: **PostgreSQL**
+- Database: **use any of MySQL / MariaDB / Postgres / CockroachDB / SQLite / Microsoft SQL Server / Oracle / sql.js / MongoDB**
 - Test Library:
 - CI Tool: **Cirlce CI**
 
