@@ -1,5 +1,5 @@
 import { Module } from '@nestjs/common';
-import { ConfigService } from '../services/ConfigService';
+import { ConfigService } from '../services/config.service';
 
 const environment = 'production';
 @Module({

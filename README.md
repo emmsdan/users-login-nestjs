@@ -3,6 +3,9 @@
 ## Description
  A simple user management app.  
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/fb3315870f18ed002691/maintainability)](https://codeclimate.com/github/emmsdan/users-manager-backend/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/fb3315870f18ed002691/test_coverage)](https://codeclimate.com/github/emmsdan/users-manager-backend/test_coverage) [![CircleCI](https://circleci.com/gh/emmsdan/users-manager-backend.svg?style=svg)](https://circleci.com/gh/emmsdan/users-manager-backend)
+
+[![](https://img.shields.io/badge/Protected_by-Hound-a873d1.svg)](https://houndci.com)
 ## DEPENDECIES/TECHNOLOGIES
 - Framework: **Nestjs (typescript version)**
 - Database ORM: **TypeORM**
