@@ -1,10 +1,10 @@
 import { Injectable } from '@nestjs/common';
-import { ConfigService } from './services/ConfigService';
+import { ConfigService } from './services/config.service';
 
 @Injectable()
 export class AppService {
-  constructor(private config: ConfigService) {}
+  constructor() {}
   getHello(): string {
-    return 'Hi, welocome to e-user-manager';
+    return 'Hi, welocome to e-user-manager!';
   }
 }
